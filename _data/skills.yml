@@ -3,10 +3,14 @@
 - skill: Organizational leadership
   description: <ul class="resume-item-list"><li>Project Timeline Management</li><li>Project Finance Management</li><li>Client Relationship Management</li><li>Strategy and Execution</li><li>Risk Management</li><li>Quality Management</li></ul>
   
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+# Technical Management 
+- skill: Technical Management 
+  description: <ul class="resume-item-list"><li>Technology Upgrade</li><li>Process Standardization</li><li>Team Management</li><li>Release Management</li><li>Innovation</li><li>Business Intelligence</li></ul>
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+# Technical Excellence 
+- skill: Technical Excellence 
+  description: <ul class="resume-item-list"><li>Mainframe Technologies</li><li>Java/J2EE technologies</li><li>ETL Technology - Informatica </li><li>Database Technologies - DB2 , AMDB , MongoDb</li></ul>
+
+# Modern Technology 
+- skill: Modern Technologies 
+  description: <ul class="resume-item-list"><li>AI/Machine Learning</li><li>Cloud Computing - AWS</li><li>Agile Process - Scrum , SAFe </li></ul>

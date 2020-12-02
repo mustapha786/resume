@@ -10,3 +10,29 @@
   year: 2006 - Present 
   summary: <ul class="resume-item-list"><li>Rated 1 - 10 times.</li><li>Rated 2 - 3 times.</li><li>Rated 3 - only 1 time.</li></ul>
  
+- award: Certificate of Completion. 
+  organization:  Maples ESM technology Pvt. Ltd.
+  year: 2006
+ summary: Successfully completed training on MVS/OS -390, Z/OS, TSO/ISPF,JCL,VSAM,COBOL,DB2 & CICS.
+ 
+ - award: Property and Liability Insurance Principles. 
+  organization:  AICPCU.
+  year: 2007 - Present 
+ # summary: <ul class="resume-item-list"><li>Rated 1 - 10 times.</li><li>Rated 2 - 3 times.</li><li>Rated 3 - only 1 time.</li></ul>
+ 
+  - award: Professional Scrum Master I. 
+  organization:  Scrum.org.
+  year: 2019 - Present 
+ # summary: <ul class="resume-item-list"><li>Rated 1 - 10 times.</li><li>Rated 2 - 3 times.</li><li>Rated 3 - only 1 time.</li></ul>
+ 
+ 
+ - award: Certificate of Completion. 
+  organization:  edureka.
+  year: 2019  
+  summary: JavaScript and JQuery Developer.
+  
+  - award: Industrialized AI Data Engineer. 
+  organization:  DXC Technology Inc.
+  year: 2020  
+  summary: <a href="https://www.scrum.org/user/588163/">See credential</a>.
+  

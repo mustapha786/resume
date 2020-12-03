@@ -46,3 +46,33 @@
   # url: "#"
   description: $2M, Commercial Auto and Workers Compensation product upgrade.
   
+- project: Mobile Business Interruption endorsement (MBIE)       
+  role: Presented RFP,Project Manager  
+  duration: 2016 &mdash; 2017
+  # url: "#"
+  description: $.5M, introducing MBIE into Business Insurance for Farmers Insurance.
+  
+- project: Specialty Lines SAS reduction Program        
+  role: Developer, Project Manager   
+  duration: 2017 &mdash; 2018
+  # url: "#"
+  description: $ 100K, moving SAS programs to Informatica design only. 
+  
+- project: Infra - Server Refresh Program         
+  role: Project Manager   
+  duration: 2017 &mdash; 2018
+  # url: "#"
+  description: Service Operation, Infrastructure upgrade program for Farmers Insurance's several lines of business. 
+  
+- project: OKTA implementation to Specialty applications          
+  role: Project Manager   
+  duration: 2018 &mdash; 2019
+  # url: "#"
+  description: $1M, Replacing SiteMinder with OKTA and implementing MFA. 
+  
+- project: Specialty casualty application modernization           
+  role: Project Manager   
+  duration: 2019 &mdash; 2020
+  # url: "#"
+  description: $500K, Upfrading Java , IceFace , JSF , Websphere , OS. 
+  

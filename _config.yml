@@ -17,11 +17,11 @@ resume_title:                   "Professional Project Manager"
 resume_contact_email:           "mustapha786@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "818-918-1892"
+resume_contact_telephone:       "1(818)-918-1892"
 resume_contact_address:         "Grand Rapids , MI , USA "
 
 resume_header_contact_info:     "Grand Rapids , MI , USA • 818 918 1892 • mustapha786@gmail.com"
-display_header_contact_info:    "false"
+display_header_contact_info:    "true"
 
 resume_header_intro: "<p>Skilled IT Leader with fourteen plus years of experience in successfully managing several projects / programs of applications related to Insurance. Innovative thinker and team player who thrives in a collaborative and dynamic environment, and who demonstrates leadership in managing people, process, and systems to execute strategic business objectives. An aggressive yet tactful leader with high credibility and integrity, coupled with an excellent work ethic</p>"
 

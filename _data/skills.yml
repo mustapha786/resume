@@ -1,15 +1,15 @@
 # Skills
 # Organizational leadership
 - skill: Organizational leadership
-  description: <ul class="resume-item-list"><li>Project Timeline Management</li><li>Project Finance Management</li><li>Client Relationship Management</li><li>Strategy and Execution</li><li>Risk Management</li><li>Quality Management</li></ul>
+  description: <ul class="resume-item-list"><li>Time Management</li><li>Cost Management</li><li>Scope Management</li><li>Communication Management</li><li>Client Relationship Management</li><li>Strategy and Execution</li><li>Risk Management</li><li>Quality Management</li></ul>
   
 # Technical Management 
 - skill: Technical Management 
-  description: <ul class="resume-item-list"><li>Technology Upgrade</li><li>Process Standardization</li><li>Team Management</li><li>Release Management</li><li>Innovation</li><li>Business Intelligence</li></ul>
+  description: <ul class="resume-item-list"><li>Technology Upgrade</li><li>Process Standardization</li><li>Team Management</li><li>Release Management</li><li>Innovation</li><li>Config Management</li><li>Business Intelligence</li></ul>
 
 # Technical Excellence 
 - skill: Technical Excellence 
-  description: <ul class="resume-item-list"><li>Mainframe Technologies</li><li>Java/J2EE technologies</li><li>ETL Technology - Informatica </li><li>Database Technologies - DB2 , AMDB , MongoDb</li></ul>
+  description: <ul class="resume-item-list"><li>Mainframe Technologies - Hands-on , Proj Management </li><li>Java/J2EE technologies - Fair understanding , Proj Management </li><li>ETL Technology (Informatica) - Hands-on , Proj Management</li><li>Database Technologies (DB2 , AMDB , MongoDb- Hands-on etc.) - Hands-on , Proj Management</li></ul>
 
 # Modern Technology 
 - skill: Modern Technologies 

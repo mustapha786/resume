@@ -2,15 +2,47 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+- project: electronic Customer Marketing system for Farmers Business Insurance 
+  role: Design & Primary Developer
+  duration: 2008 &mdash; 2010
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: $215K , We set up a daily data feed from legacy system , onetime data load and process to upload policies on demand. 
 
 # Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+- project: Institutional BOP 
+  role: Design & Technical Lead 
+  duration: 2009 &mdash; 2010
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: $2M , introducing Institutional Business Owers Policy into Business Insurance for Farmers Insurance
+  
+- project: Subscription Agreement  
+  role: Architect ,Design , Technical Lead 
+  duration: 2010 &mdash; 2011
+  # url: "#"
+  description: $2.5M Introducing Subscription Agreement documents tracking system to receive customer signature on time. 
+  
+- project: Hospitality BOP   
+  role: Technical PM 
+  duration: 2010 &mdash; 2012
+  # url: "#"
+  description: $1.5M, introducing Institutional Business Owers Policy into Business Insurance for Farmers Insurance.
+  
+- project: Claims Automation    
+  role: Architect , Design , SME , Technical PM  
+  duration: 2010 &mdash; 2012
+  # url: "#"
+  description: $2.5M, Automating coverage verification process for Farmers Business Insurance.
+  
+- project: Rate Capping and Product Versioning      
+  role: Project Manager  
+  duration: 2014 &mdash; 2016
+  # url: "#"
+  description: $4M, Rating process enhancement for Farmers Business Insurance. 
+  
+  
+- project: Farmers Smart Plan programs       
+  role: Presented RFP,Project Manager  
+  duration: 2015 &mdash; 2017
+  # url: "#"
+  description: $2M, Commercial Auto and Workers Compensation product upgrade.
+  

@@ -20,20 +20,20 @@
 #  url: http://campuspress.yale.edu/amnesty/
   summary: <ul><li>Tensorflow hand-on and course from edureka - In progress</li><li>NPL hand-on and course from edureka - In progress</li></ul>
 
-- organization: Management
-#  role: Communications coordinator
+#- organization: Management
+- role: Management
 #  year: 2002 &mdash; 2004
 #  url: http://campuspress.yale.edu/amnesty/
   summary: <ul><li>PMP Certification - In progress</li><li>PSPOI - Not started</li></ul>
   
-- organization: Could Technology 
-#  role: Communications coordinator
+#- organization: Could Technology 
+- role: Could Technology
 #  year: 2002 &mdash; 2004
 #  url: http://campuspress.yale.edu/amnesty/
   summary: <ul><li>AWS could Practioner - In progress</li><li>Salesforce - Not started</li></ul>
   
-- organization: Big Data  
-#  role: Communications coordinator
+#- organization: Big Data  
+- role: Big Data
 #  year: 2002 &mdash; 2004
 #  url: http://campuspress.yale.edu/amnesty/
   summary: <ul><li>Big Data - Not started</li></ul>

@@ -51,29 +51,29 @@
   role: Presented RFP,Project Manager  
   duration: 2016 &mdash; 2017
   # url: "#"
-  description: $.5M, introducing MBIE into Business Insurance for Farmers Insurance.
+  description: <ul><li>Project Budget:~$.5M</li>Introducing MBIE into Business Insurance for Farmers Insurance.</li><li>Important as new product development so got exposure to work with Product Managers , Marketing Team , Legal and Complaince Team etc.</li></ul>
   
 - project: Specialty Lines SAS reduction Program        
   role: Developer, Project Manager   
   duration: 2017 &mdash; 2018
   # url: "#"
-  description: $ 100K, moving SAS programs to Informatica design only. 
+  description: <ul><li>Project Budget:~$100K</li>Moving SAS programs to Informatica design only.</li><li>Important as I did not know SAS and learnt for this project and client was very happy from our performance</li></ul> 
   
 - project: Infra - Server Refresh Program         
   role: Project Manager   
   duration: 2017 &mdash; 2018
   # url: "#"
-  description: Service Operation, Infrastructure upgrade program for Farmers Insurance's several lines of business. 
+  description: <ul><li>Service Operation</li><li>Infrastructure upgrade program for Farmers Insurance's several lines of business.</li><li>Important for me as got to learn and work with complete team of Infrastructure</li></ul>  
   
 - project: OKTA implementation to Specialty applications          
   role: Project Manager   
   duration: 2018 &mdash; 2019
   # url: "#"
-  description: $1M, Replacing SiteMinder with OKTA and implementing MFA. 
+  description: <ul><li>Project Budget:~$1M</li>Replacing SiteMinder with OKTA and implementing MFA.</li><li>Important to me as this was very first project to manager in Java,J2EE area and had impact to multiple teams</li></ul> 
   
 - project: Specialty casualty application modernization           
   role: Project Manager   
   duration: 2019 &mdash; 2020
   # url: "#"
-  description: $500K, Upgrading Java , IceFace , JSF , Websphere , OS. 
+  description: <ul><li>Project Budget:~$500K</li><li>Upgrading Java , IceFace , JSF , Websphere , OS.</li><li>This was the most complex project so far as we had so many moving parts like Infra changes ,multiple products upgrade, no clear scope for testing etc. </li></ul> 
   

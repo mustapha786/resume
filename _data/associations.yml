@@ -1,4 +1,4 @@
-# Associations
+# Associations # GMK Changed to Learning Plan
 # comment out the urls if you do not wish to display them
 
 #- organization: PETA
@@ -13,3 +13,27 @@
 #  year: 2002 &mdash; 2004
 #  url: http://campuspress.yale.edu/amnesty/
 #  summary: During my junion and senior years at Yale, I was actively involved in Yale Amnesty International where I helped facilitate our student organization communications through website maintenance, writing for our campus publication, and graphic design of related materials.
+
+- organization: AI/Machine Learning
+#  role: Communications coordinator
+#  year: 2002 &mdash; 2004
+#  url: http://campuspress.yale.edu/amnesty/
+  summary: <ul><li>Tensorflow hand-on and course from edureka - In progress</li><li>NPL hand-on and course from edureka - In progress</li></ul>
+
+- organization: Management
+#  role: Communications coordinator
+#  year: 2002 &mdash; 2004
+#  url: http://campuspress.yale.edu/amnesty/
+  summary: <ul><li>PMP Certification - In progress</li><li>PSPOI - Not started</li></ul>
+  
+- organization: Could Technology 
+#  role: Communications coordinator
+#  year: 2002 &mdash; 2004
+#  url: http://campuspress.yale.edu/amnesty/
+  summary: <ul><li>AWS could Practioner - In progress</li><li>Salesforce - Not started</li></ul>
+  
+- organization: Big Data  
+#  role: Communications coordinator
+#  year: 2002 &mdash; 2004
+#  url: http://campuspress.yale.edu/amnesty/
+  summary: <ul><li>Big Data - Not started</li></ul>

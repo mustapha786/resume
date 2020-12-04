@@ -9,7 +9,7 @@
 
 # Technical Excellence 
 - skill: Technical Excellence 
-  description: <ul class="resume-item-list"><li>Mainframe Technologies - Hands-on , Proj Management </li><li>Java/J2EE technologies - Fair understanding , Proj Management </li><li>ETL Technology (Informatica) - Hands-on , Proj Management</li><li>Database Technologies (DB2 , AMDB , MongoDb- Hands-on etc.) - Hands-on , Proj Management</li></ul>
+  description: <ul class="resume-item-list"><li>Mainframe Technologies - Hands-on , Proj Management </li><li>Java/J2EE technologies - Fair understanding , Proj Management </li><li>ETL Technology (Informatica)<ul><li> Hands-on </li><li>Proj Management</li></ul></li><li>Database Technologies (DB2 , AMDB , MongoDb- Hands-on etc.) - Hands-on , Proj Management</li></ul>
 
 # Modern Technology 
 - skill: Modern Technologies 

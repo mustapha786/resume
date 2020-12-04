@@ -14,8 +14,8 @@
 #  url: http://campuspress.yale.edu/amnesty/
 #  summary: During my junion and senior years at Yale, I was actively involved in Yale Amnesty International where I helped facilitate our student organization communications through website maintenance, writing for our campus publication, and graphic design of related materials.
 
-- organization: AI/Machine Learning
-#  role: Communications coordinator
+#- organization: AI/Machine Learning
+- role: AI/Machine Learning
 #  year: 2002 &mdash; 2004
 #  url: http://campuspress.yale.edu/amnesty/
   summary: <ul><li>Tensorflow hand-on and course from edureka - In progress</li><li>NPL hand-on and course from edureka - In progress</li></ul>

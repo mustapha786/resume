@@ -69,7 +69,7 @@
   role: Project Manager   
   duration: 2018 &mdash; 2019
   # url: "#"
-  description: <ul><li>Project Budget:~$800K</li>Replacing SiteMinder with OKTA and implementing MFA.</li><li>Complexity &#58; This was very first project to manager in Java,J2EE area and had impact to multiple teams</li></ul> 
+  description: <ul><li>Project Budget:~$800K</li><li>Replacing SiteMinder with OKTA and implementing MFA.</li><li>Complexity &#58; This was very first project to manager in Java,J2EE area and had impact to multiple teams</li></ul> 
   
 - project: Specialty casualty application modernization           
   role: Project Manager   

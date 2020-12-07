@@ -30,10 +30,10 @@
 - role: Cloud Technology
 #  year: 2002 &mdash; 2004
 #  url: http://campuspress.yale.edu/amnesty/
-  summary: <ul><li>AWS could Practioner - In progress</li><li>Salesforce - Not started</li></ul>
+  summary: <ul><li>AWS could Practioner - In progress</li><li>API and Integration (Mulesoft) - In Progress </li><li>Salesforce - Not started</li></ul>
   
 #- organization: Big Data  
-- role: Big Data
+#- role: Big Data
 #  year: 2002 &mdash; 2004
 #  url: http://campuspress.yale.edu/amnesty/
-  summary: <ul><li>Big Data - Not started</li></ul>
+#  summary: <ul><li>Big Data - Not started</li></ul>

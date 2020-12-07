@@ -6,74 +6,74 @@
   role: Design & Primary Developer
   duration: 2008 &mdash; 2010
   # url: "#"
-  description: <ul><li>Project Budget:~$170K.</li><li>Set up a daily data feed from legacy system to eCMS,onetime data migration and balancing procedure.</li><li>Complexity Policy processing system was in VSAM and had to perform onetime load for complete book of business.</li></ul> 
+  description: <ul><li>Project Budget:~$170K.</li><li>Set up a daily data feed from legacy system to eCMS,onetime data migration and balancing procedure.</li><li>Complexity &#58; Policy processing system was in VSAM and had to perform onetime load for complete book of business.</li></ul> 
 
 # Springfield Community Outreach Group
 - project: Institutional BOP 
   role: Design & Technical Lead 
   duration: 2009 &mdash; 2010
   # url: "#"
-  description: <ul><li>Project Budget:~$1.6M</li><li>introducing Institutional Business Owers Policy into Business Insurance for Farmers Insurance.</li><li>Complexity: This was the very first product DXC build from scratch without any help from product owner(i.e. CGI).</li></ul> 
+  description: <ul><li>Project Budget:~$1.6M</li><li>introducing Institutional Business Owers Policy into Business Insurance for Farmers Insurance.</li><li>Complexity &#58; This was the very first product DXC build from scratch without any help from product owner(i.e. CGI).</li></ul> 
 
   
 - project: Subscription Agreement  
   role: Architect ,Design , Technical Lead 
   duration: 2010 &mdash; 2011
   # url: "#"
-  description: <ul><li>Project Budget:~$1.4M</li><li>Introducing Subscription Agreement documents tracking system to receive customer signature on time.</li><li>Complexity: This was build completely on legacy file based system and accuracy was critical for business.</li></ul> 
+  description: <ul><li>Project Budget:~$1.4M</li><li>Introducing Subscription Agreement documents tracking system to receive customer signature on time.</li><li>Complexity &#58; This was build completely on legacy file based system and accuracy was critical for business.</li></ul> 
   
 - project: Hospitality BOP   
   role: Technical PM 
   duration: 2010 &mdash; 2012
   # url: "#"
-  description: <ul><li>Project Budget:~$1.2M</li><li>Introducing Institutional Business Owers Policy into Business Insurance for Farmers Insurance.</li><li>Complexity: This was another new product and rating  was complex.</li></ul> 
+  description: <ul><li>Project Budget:~$1.2M</li><li>Introducing Institutional Business Owers Policy into Business Insurance for Farmers Insurance.</li><li>Complexity &#58; This was another new product and rating  was complex.</li></ul> 
   
 - project: Claims Automation    
   role: Architect , Design , SME , Technical PM  
   duration: 2010 &mdash; 2012
   # url: "#"
-  description: <ul><li>Project Budget:~$900K</li><li>Automating coverage verification process for Farmers Business Insurance.</li><li>Complexity: I had to play multiple roles here and there were not enough system documentation available.</li></ul> 
+  description: <ul><li>Project Budget:~$900K</li><li>Automating coverage verification process for Farmers Business Insurance.</li><li>Complexity &#58; I had to play multiple roles here and there were not enough system documentation available.</li></ul> 
   
 - project: Rate Capping and Product Versioning      
   role: Project Manager  
   duration: 2014 &mdash; 2016
   # url: "#"
-  description: <ul><li>Project Budget:~$700K</li><li>Rating process enhancement for Farmers Business Insurance.</li><li>Complexity: Complete rating got upgraded for commercial auto policies.</li></ul>  
+  description: <ul><li>Project Budget:~$700K</li><li>Rating process enhancement for Farmers Business Insurance.</li><li>Complexity &#58; Complete rating got upgraded for commercial auto policies.</li></ul>  
   
   
 - project: Farmers Smart Plan programs       
   role: Presented RFP,Project Manager  
   duration: 2015 &mdash; 2017
   # url: "#"
-  description: <ul><li>Project Budget:~$1M</li>Commercial Auto and Workers Compensation product upgrade.</li><li>Complexity: Impacted all coverages for Commercial Auto and Workers compensation products.</li></ul>
+  description: <ul><li>Project Budget:~$1M</li>Commercial Auto and Workers Compensation product upgrade.</li><li>Complexity &#58; Impacted all coverages for Commercial Auto and Workers compensation products.</li></ul>
   
 - project: Mobile Business Interruption endorsement (MBIE)       
   role: Presented RFP,Project Manager  
   duration: 2016 &mdash; 2017
   # url: "#"
-  description: <ul><li>Project Budget:~$330K</li>Introducing MBIE into Business Insurance for Farmers Insurance.</li><li>Complexity: New product development.</li></ul>
+  description: <ul><li>Project Budget:~$330K</li>Introducing MBIE into Business Insurance for Farmers Insurance.</li><li>Complexity &#58; New product development.</li></ul>
   
 - project: Specialty Lines SAS reduction Program        
   role: Developer, Project Manager   
   duration: 2017 &mdash; 2018
   # url: "#"
-  description: <ul><li>Project Budget:~$110K</li>Moving SAS programs to Informatica design only.</li><li>Complexity:I learnt SAS and performed technical work as well as managed a team of 6 resouces to deliver this project</li></ul> 
+  description: <ul><li>Project Budget:~$110K</li>Moving SAS programs to Informatica design only.</li><li>Complexity &#58; I learnt SAS and performed technical work as well as managed a team of 6 resouces to deliver this project</li></ul> 
   
 - project: Infra - Server Refresh Program         
   role: Project Manager   
   duration: 2017 &mdash; 2018
   # url: "#"
-  description: <ul><li>Service Operation</li><li>Infrastructure upgrade program for Farmers Insurance's several lines of business.</li><li>Complexity:I was not familer with Infra work as well as had to comeup with new process to automate the daily routine works</li></ul>  
+  description: <ul><li>Service Operation</li><li>Infrastructure upgrade program for Farmers Insurance's several lines of business.</li><li>Complexity &#58;I was not familer with Infra work as well as had to comeup with new process to automate the daily routine works</li></ul>  
   
 - project: OKTA implementation to Specialty applications          
   role: Project Manager   
   duration: 2018 &mdash; 2019
   # url: "#"
-  description: <ul><li>Project Budget:~$800K</li>Replacing SiteMinder with OKTA and implementing MFA.</li><li>Complexity:This was very first project to manager in Java,J2EE area and had impact to multiple teams</li></ul> 
+  description: <ul><li>Project Budget:~$800K</li>Replacing SiteMinder with OKTA and implementing MFA.</li><li>Complexity &#58; This was very first project to manager in Java,J2EE area and had impact to multiple teams</li></ul> 
   
 - project: Specialty casualty application modernization           
   role: Project Manager   
   duration: 2019 &mdash; 2020
   # url: "#"
-  description: <ul><li>Project Budget:~$400K</li><li>Upgrading Java , IceFace , JSF , Websphere , OS.</li><li>Complexity:We had so many moving parts like Infra changes ,multiple products upgrade, no clear scope for testing etc. </li></ul> 
+  description: <ul><li>Project Budget:~$400K</li><li>Upgrading Java , IceFace , JSF , Websphere , OS.</li><li>Complexity &#58; We had so many moving parts like Infra changes ,multiple products upgrade, no clear scope for testing etc. </li></ul> 
   
